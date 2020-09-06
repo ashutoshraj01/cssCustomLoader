@@ -3,4 +3,4 @@
 
 ## How to use?
 - Just copy and paste the whole code of loader file, you want to use in your project.
-- Modify the colours and animations as per your need.
+- Modify the colours, width, height, animations, etc.. as per your need.
