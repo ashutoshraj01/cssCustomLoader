@@ -1,6 +1,3 @@
-# CSS Custom Loader
-- This repo contains multiple custom css loader.Use the one you like or maybe all :smiley: 
+# Loader 06
 
-## How to use?
-- Just copy and paste the whole code of loader file, you want to use in your project.
-- Modify the colours and animations as per your need.
+![Loader 06](https://github.com/ashutoshraj01/cssCustomLoader/blob/master/Loader-06/loader06.gif)
